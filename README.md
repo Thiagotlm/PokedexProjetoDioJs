@@ -1,1 +1,1 @@
-# PokedexProjetoDioJs
+# js-developer-pokedex
